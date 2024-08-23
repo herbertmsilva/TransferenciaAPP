@@ -1,23 +1,46 @@
+# API de Transferências - Case Itaú
+
 ## Descrição
 
-Este projeto é uma API RESTful desenvolvida em .NET 8 para gerenciar transferências bancárias, incluindo funcionalidades de cadastro e listagem de clientes, transferência de valores entre contas e consulta de histórico de transações. O objetivo principal do projeto é demonstrar habilidades em desenvolvimento e arquitetura de software, implementando práticas de 
-controle de concorrência. Este projeto segue o conceito KISS (Keep It Simple, Stupid), visando uma implementação simples e eficaz.
+Este projeto é uma API RESTful desenvolvida em .NET 8 que implementa funcionalidades de transferência entre contas, cadastro e listagem de clientes, e consulta de histórico de transferências. O objetivo é demonstrar habilidades de desenvolvimento e arquitetura de software, seguindo as melhores práticas.
+
+## Índice
+
+1. [Pré-requisitos](#pré-requisitos)
+2. [Instalação](#instalação)
+3. [Configuração](#configuração)
+4. [Uso](#uso)
+5. [Endpoints da API](#endpoints-da-api)
+6. [Testes](#testes)
+7. [Tecnologias Usadas](#tecnologias-usadas)
+8. [Contribuição](#contribuição)
+9. [Licença](#licença)
+10. [Contato](#contato)
 
 ## Pré-requisitos
 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em seu sistema:
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0): O SDK do .NET 8 é necessário para compilar e executar a API.
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) ou qualquer editor de código compatível: Recomenda-se o uso do Visual Studio 2022 para uma melhor experiência de desenvolvimento, mas outros editores como Visual Studio Code também podem ser usados.
-- [Postman](https://www.postman.com/) ou outra ferramenta para testar APIs: Para testar os endpoints da API e verificar suas respostas.
-- [Git](https://git-scm.com/): Para clonar o repositório e gerenciar o controle de versão do projeto.
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) ou qualquer editor de código compatível
+- [Postman](https://www.postman.com/) ou outra ferramenta para testar APIs
+- [Git](https://git-scm.com/)
 
 ## Instalação
 
 Siga os passos abaixo para configurar o projeto localmente:
 
-1. Clone o repositório para a sua máquina local:
+1. **Clone o repositório para a sua máquina local**:
 
-   ```bash
+   Abra um terminal e execute o seguinte comando para clonar o repositório:
+    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   
+3. 
+4. **Abra o projeto no Visual Studio**:
+5. **Restaure as dependências do projeto**:
+6. **Compile o projeto**:
+7. **Execute o projeto**:
+8. **Acesse a documentação da API com Swagger**:
+
+ 
