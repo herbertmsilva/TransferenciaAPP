@@ -16,39 +16,8 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 Siga os passos abaixo para configurar o projeto localmente:
 
-1. **Clone o repositório para a sua máquina local**:
-
-   Abra um terminal e execute o seguinte comando para clonar o repositório:
+1. Clone o repositório para a sua máquina local:
 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-Restaure as dependências do projeto:
-
-Navegue até o diretório do projeto e execute o seguinte comando para restaurar as dependências necessárias:
-
-bash
-Copiar código
-dotnet restore
-Compile o projeto:
-
-Após restaurar as dependências, compile o projeto usando o comando abaixo:
-
-bash
-Copiar código
-dotnet build
-Execute as migrações do banco de dados (se necessário):
-
-Caso o projeto utilize migrações, você pode aplicar as migrações ao banco de dados com o seguinte comando:
-
-bash
-Copiar código
-dotnet ef database update
-Inicie o servidor de desenvolvimento:
-
-Execute o seguinte comando para iniciar o servidor localmente:
-
-bash
-Copiar código
-dotnet run
-O servidor será iniciado e você poderá acessar a API em http://localhost:5000.
